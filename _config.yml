@@ -5,10 +5,10 @@ description: "Trooper"
 url: "http://trooperthewhgs.github.io"
 baseurl: /trooperthewgs
 instagram_username: "trooperthewgs"
-github_username:  "trooperthewgs"
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+#github_username:  "trooperthewgs"
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
 share: true
 
 # Owner/author information
