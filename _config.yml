@@ -2,9 +2,9 @@
 title: Trooper the White German Shepherd
 #email: ""
 description: "Trooper"
-url: "http://www.trooperthewgs.com"
+url: "ttp://www.trooperthewgs.com"
 baseurl: /.
-instagram_username: "trooperthewgs"
+#instagram_username: "trooperthewgs"
 #github_username:  "trooperthewgs"
 #deviantart_username: ""
 #flickr_username: ""
@@ -34,6 +34,7 @@ nav:
  journal: "baseurl/journal/"
  gallery: "baseurl/gallery/"
  about: "baseurl/about/"
+ social: "baseurl/social/"
 
 # All translation keys
 translations:
